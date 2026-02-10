@@ -1,0 +1,23 @@
+--- SCORES ANALYSIS ---
+                                                             text  priority_score priority_level
+10                                         delivery issue occured        1.295308           High
+3   Customer support was very helpful and solved my issue quickly        1.196060           High
+0       The delivery was very late and my package arrived damaged        1.159134           High
+4                      Delivery took 2 weeks longer than expected        1.159134           High
+2                        App keeps crashing when I try to open it        1.113687         Medium
+5                            The app has too many bugs and errors        1.113687         Medium
+1   Great product but the price is too expensive for what you get        1.108552         Medium
+6                         I love this product! Quality is amazing        1.108552         Medium
+8                        Support team never responded to my email        1.087071         Medium
+7          The pricing doesn't make sense compared to competitors        1.000000            Low
+9                          Shipping was delayed by almost a month        1.000000            Low
+
+--- DISTRIBUTION ---
+priority_level
+Medium    5
+High      4
+Low       2
+
+Max Score: 1.2953076536400223
+Min Score: 1.0000000000000002
+Mean Score: 1.1219257880026623

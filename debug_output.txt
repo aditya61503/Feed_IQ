@@ -1,0 +1,12 @@
+Clusters type: int32
+Clusters unique: [0 1 2 3]
+Names keys type: <class 'numpy.int32'>
+Names: {0: 'General Feedback', 1: 'General Feedback', 2: 'General Feedback', 3: 'General Feedback'}
+df['cluster'] dtype: int32
+df['cluster_name'] unique: ['General Feedback']
+df['cluster_name'] nulls: 0
+--- SUMMARY START ---
+Main issues detected:
+- General Feedback: 18 feedbacks
+
+--- SUMMARY END ---
