@@ -69,13 +69,13 @@ A Streamlit-based application that uses Machine Learning (TF-IDF + K-Means) to a
 
 ## 📸 Screenshots
 
-### 🖥️ Dashboard
+### Dashboard
 ![Dashboard](screenshots/Dashboard.png)
 
-### 📊 Clustering Output
+### Clustering Output
 ![Clusters](screenshots/Clusters.png)
 
-### 🔍 Similar Feedback Detection
+### Similar Feedback Detection
 ![Similar Finds](screenshots/Similar_finds.png)
 ---
 *Created by Aditya Walse-Patil*
