@@ -17,7 +17,7 @@ A Streamlit-based application that uses Machine Learning (TF-IDF + K-Means) to a
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/ML_Feedback_Intelligence.git
+    git clone https://github.com/aditya61503/Feed_IQ.git
     cd ML_Feedback_Intelligence
     ```
 
@@ -65,5 +65,17 @@ A Streamlit-based application that uses Machine Learning (TF-IDF + K-Means) to a
 - **Scikit-learn**: TF-IDF and K-Means clustering.
 - **Pandas/Numpy**: Data manipulation.
 
+
+
+## 📸 Screenshots
+
+### 🖥️ Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### 📊 Clustering Output
+![Clusters](screenshots/Clusters.png)
+
+### 🔍 Similar Feedback Detection
+![Similar Finds](screenshots/Similar_finds.png)
 ---
-*Created by [Your Name]*
+*Created by Aditya Walse-Patil*
